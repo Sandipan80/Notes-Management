@@ -1,0 +1,15 @@
+.note-list-container {
+  margin-top: 30px;
+}
+
+.note-list-container h2 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+.note-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
